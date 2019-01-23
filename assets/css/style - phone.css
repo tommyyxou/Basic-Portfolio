@@ -83,14 +83,15 @@ li a {
 }
 
 #navibutton {
-    padding-top: 10px;
+    padding-top: 2.5%;
+    margin: auto;
     background-color: white;
     float: right;
 }
 
 #MainContent {
-    padding-top: 30px;
-    padding-bottom: 90px;
+    padding-top: 10px;
+    padding-bottom: 50px;
     border-top-style: solid;
     border-color: #cccccc;
     border-width: 2px;
@@ -101,7 +102,7 @@ li a {
     border-top-style: solid;
     border-color: #4aaaa5;
     border-width: 8px;
-    height: 60px;
+    height: 40px;
     width: 100%;
     position: fixed;
     bottom: 0px;
